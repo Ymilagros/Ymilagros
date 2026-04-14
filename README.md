@@ -7,7 +7,7 @@
 
 <br/>
 
-# ✨ Milagros Gil Hernández ✨
+# ✨ Milagros Gil Hernández
 
 ### *"Soñadora con código de astronauta y pincel"* 🚀🎨
 

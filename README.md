@@ -104,9 +104,6 @@ class MilagrosGil {
 
 ## 📊 GitHub Stats
 
-![Milagros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ymilagros&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8B2FC9&icon_color=C9A84C&text_color=F0EDE4&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ymilagros&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=8B2FC9&text_color=F0EDE4)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ymilagros&theme=tokyonight&hide_border=true&background=0D0D0D&ring=8B2FC9&fire=C9A84C&currStreakLabel=F0EDE4)
 

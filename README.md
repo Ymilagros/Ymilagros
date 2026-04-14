@@ -1,13 +1,12 @@
 <div align="center">
 
-https://raw.githubusercontent.com/Ymilagros/Ymilagros/master/avatar.png
+<img src="https://raw.githubusercontent.com/Ymilagros/Ymilagros/master/avatar.png" width="220" alt="Milagros Gil"/>
 
 <br/>
 
 # ✨ Milagros Gil Hernández
 
-### *"Soñadora con código de astronauta y pincel"*
-### *"Dreamer with astronaut code and a paintbrush"* 🚀🎨
+### *"Soñadora con código de astronauta y pincel"* 🚀🎨
 
 <br/>
 

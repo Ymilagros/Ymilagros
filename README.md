@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ymilagros/Ymilagros/master/avatar.png" width="220" alt="Milagros Gil"/>
+<img src="https://raw.githubusercontent.com/Ymilagros/Ymilagros/master/avatar.png" width="200" style="border-radius:50%;border:3px solid #8B2FC9;" alt="Milagros Gil"/>
 
 <br/>
 

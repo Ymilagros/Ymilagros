@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/Ymilagros/Ymilagros/master/banner.png" width="100%" alt="Milagros Gil Banner"/>
 
-<img src="https://raw.githubusercontent.com/Ymilagros/Ymilagros/master/avatar.png" width="180" alt="Milagros Gil"/>
 
 <br/>
 

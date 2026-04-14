@@ -79,26 +79,6 @@ class MilagrosGil {
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 Proyecto destacado · Featured Project
-
-</div>
-
-<div align="center">
-
-[![Ankara Security Design System](https://img.shields.io/badge/🏛️_Ankara_Security-Design_System_v1.0-2D1B69?style=for-the-badge)](https://ymilagros.github.io/design_manual_ankara/)
-
-> Sistema de diseño UI completo para aplicación de seguridad residencial.
-> Flutter · Firebase · Material 3 · Web + Android
-
-[![Ver proyecto](https://img.shields.io/badge/Ver_Design_System-8B2FC9?style=for-the-badge&logo=github&logoColor=white)](https://ymilagros.github.io/design_manual_ankara/)
-
-</div>
-
----
 
 <div align="center">
 
